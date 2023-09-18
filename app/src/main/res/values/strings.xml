@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login_page_ppapb</string>
+    <string name="Text1">Welcome Username</string>
+    <string name="Text2">Your email has been activated</string>
+    <string name="Text3">your phone has been registered</string>
+    <string name="box">By checking the box you agree to our</string>
+    <string name="reg2">Already Have an Account?</string>
+</resources>
